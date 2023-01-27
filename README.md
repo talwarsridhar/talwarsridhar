@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talwarsridhar
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning Frontend Development, Ethical Hacking and Data Structures and Algorithms
+- 🌱 I’m currently learning Frontend Development, Ethical Hacking, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on E-Commerce
 - 📫 How to reach me 
 - 🐤 Twitter: https://twitter.com/bleed1ngsw0rd
