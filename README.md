@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talwarsridhar
-- 👀 I’m interested in CyberSecurity
+- 👀 Interested in CyberSecurity
 - 🌱 I’m currently learning Frontend Development, Ethical Hacking, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on E-Commerce
 - 📫 How to reach me 
